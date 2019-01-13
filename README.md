@@ -5,15 +5,15 @@ Android application for ePageant Management System built just for Audience and J
 
 If you're **audience** watching an event hosted by ePageant, use the link below to download the client app.
 
-> Audience Client App - https://github.com/isaacdarcilla/ePageantClient/blob/master/ePageant-2.8.1-audience.apk 
+> Audience Client App - https://my.pcloud.com/publink/show?code=XZFfAx7Zs69KiXmhzbQ9kubq29dj77bIPeHX
 
 If your're a **judge** in an event, use the link below to download the Judge client app.
 
-> Judges Client App   - https://github.com/isaacdarcilla/ePageantClient/blob/master/ePageant-2.8.1-judge.apk
+> Judges Client App   - https://my.pcloud.com/publink/show?code=XZQfAx7Z4xm7KcTUFlkekiyqH4RLXhJrprDV
 
 ## Instruction
 
-After you download <code>Audience App</code>, use the <code>Invite & Ticket Code</code> given by the **organizers** to log in.
+After you download <code>Audience App</code>, use the <code>Invite & Ticket ID</code> given by the **organizers** to log in.
 
 Here is a sample of an **Invite & Ticket ID**
 
