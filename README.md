@@ -17,6 +17,33 @@ After you download <code>Audience App</code>, use the <code>Invite & Ticket Code
 
 Here is a sample of an **Invite & Ticket Code**
 
-![Ticket](https://github.com/isaacdarcilla/ePageantClient/blob/master/Epageant.png)
+### Invite Code ###
+> Q8H0D2
+
+### Ticket ID ###
+> 9933117<br>
+> 98057<br>
+> 9616173<br>
+> 25250<br>
+> 9280156<br>
+> 135278<br>
+> 455474<br>
+> 59315<br>
+> 1869124<br>
+> 9027139<br>
+> 1570181<br>
+> 4956131<br>
+> 4941162<br>
+> 368360<br>
+> 391426<br>
+> 945977<br>
+> 4945116<br>
+> 433644<br>
+> 844162<br>
+> 933939<br>
 
 Once you bought a ticket in an ePageant hosted event, you'll have your one-time voting Ticket ID.
+
+## Apple Devices Currently Not Supported ##
+
+Apps for iPhone is currently under development.
