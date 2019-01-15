@@ -3,7 +3,7 @@ Android application for ePageant Management System built just for Audience and J
 
  ![Icon](https://github.com/isaacdarcilla/ePageantClient/blob/master/placeholder%20(1).png) 
 
-## Official Website
+## Official Site
 
 + [ePageant Management System](http://epageant.x10.bz)
 
