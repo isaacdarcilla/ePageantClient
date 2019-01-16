@@ -65,9 +65,8 @@ These credentials is under **organizers** control.
 
 ## Apple Devices Currently Not Supported ##
 
+Apps for iPhone is currently under development.
+
 ## License
 
 ![Apache License 2.0](https://github.com/isaacdarcilla/ePageantClient/blob/master/LICENSE)
-
-
-Apps for iPhone is currently under development.
