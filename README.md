@@ -69,4 +69,4 @@ Apps for iPhone is currently under development.
 
 ## License
 
-![Apache License 2.0](https://github.com/isaacdarcilla/ePageantClient/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/isaacdarcilla/ePageantClient/blob/master/LICENSE)
