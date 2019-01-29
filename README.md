@@ -11,15 +11,15 @@ Android application for ePageant Management System built just for Audience and J
 
 If you're **audience** watching an event hosted by ePageant, use the link below to download the client app.
 
-> Audience Client App - https://my.pcloud.com/publink/show?code=XZFfAx7Zs69KiXmhzbQ9kubq29dj77bIPeHX
+> [Download Audience App](https://drive.google.com/open?id=1weMrSLTR7c7of2khqNno_ZbaYcHWHyWv)
 
 If your're a **judge** in an event, use the link below to download the Judge client app.
 
-> Judges Client App   - https://my.pcloud.com/publink/show?code=XZQfAx7Z4xm7KcTUFlkekiyqH4RLXhJrprDV
+> [Download Judge App](https://drive.google.com/open?id=1wmbIkiCm-Lka6hoTW1ok3lpd3pfswU4F)
 
 ## Instruction
 
-After you download <code>Audience App</code>, use the <code>Invite & Ticket ID</code> given by the **organizers** to log in.
+After you download **Audience App**, use the **Invite & Ticket ID** given by the **organizers** to log in.
 
 Here is a sample of an **Invite & Ticket ID**
 
@@ -50,7 +50,7 @@ Here is a sample of an **Invite & Ticket ID**
 
 Once you bought a ticket in an ePageant hosted event, you'll have your one-time voting Ticket ID.
 
-After you download <code>Judge App</code>, use the credentials below to access judge page.
+After you download **Judge App**, use the credentials below to access judge page.
 
 ### Username ###
 > isaac 
