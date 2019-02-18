@@ -1,8 +1,6 @@
 # Android App for ePageant
 Android application for ePageant Management System built just for Audience and Judges
 
- ![Icon](https://github.com/isaacdarcilla/ePageantClient/blob/master/placeholder%20(1).png) 
-
 ## Official Site
 
 + [ePageant Management System](http://epageant.x10.bz)
